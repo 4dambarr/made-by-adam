@@ -4,7 +4,7 @@ import { ExampleComponent } from 'made-by-adam'
 import 'made-by-adam/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <ExampleComponent />
 }
 
 export default App
